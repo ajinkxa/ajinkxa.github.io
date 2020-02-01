@@ -5,7 +5,7 @@
 ### Deep Learning Projects 
 
 [Soybean Root Image Classification - Project with Syngenta Corp, IA](/soybean.md)
-<img src="images/SoybeanImage.jpg?raw=true"/>
+<img src="images/SoybeanImage.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
