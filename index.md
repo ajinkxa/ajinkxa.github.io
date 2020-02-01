@@ -30,7 +30,8 @@
 ### Business Intelligence Projects
 
 - [Tour de France Stats](https://public.tableau.com/profile/ajinkya4046#!/vizhome/TourdeFrance-Ajinkya/Dashboard1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dtourdefrance.PNG?raw=true"/>
+<p>A simple visualization to check some cool Tour de France stats. You can see visualizations that depict in great detail the story of this celebrated bicycle race ever since its inception in 1903.</p>
 - [The 2014 Inc. 5000 Story](The 2014 Inc. 5000)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 - [Project 3 Title](http://example.com/)
