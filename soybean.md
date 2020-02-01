@@ -19,11 +19,11 @@ Before diving straight into deep learning frameworks and neural networks, we fir
 To facilitate this, we used feature extraction techniques in Python environment. We extracted features like contours, convex hulls, dimensional features and Prewitt filter horizontal and vertical edges. These extracted features were then used as attributes to train machine learning models like Naive-Bayes, Random Forests, K-Nearest Neighbors and Support Vector Machines.
 
 ## Feature Importance
-<img src="FI.png?raw=true"/>
+<img src="images/FI.png?raw=true"/>
 We see from the results above that features like positive vertical edges, negative horizontal edges were more significant than the other features. Features like rectangle height, rectangle area which denote the size of the roots were not deemed important by the algorithm. This was inline with what the pathologists at Syngenta considered. According to them, the size of the roots was indeed not a criteria to distinguish images as susceptible or resistant.
 
 ## Results of Traditional Machine Learning Models
-<img src="T1.png?raw=true"/>
+<img src="images/T1.png?raw=true"/>
 
 # Deep Learning
 
