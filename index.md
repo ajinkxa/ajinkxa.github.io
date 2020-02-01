@@ -31,7 +31,8 @@
 
 - [Tour de France Stats](https://public.tableau.com/profile/ajinkya4046#!/vizhome/TourdeFrance-Ajinkya/Dashboard1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-- [Project 2 Title](http://example.com/)
+- [The 2014 Inc. 5000 Story](The 2014 Inc. 5000)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
