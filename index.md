@@ -29,7 +29,7 @@
 
 ### Business Intelligence Projects
 
-- [Project 1 Title](http://example.com/)
+- [Tour de France Stats](https://public.tableau.com/profile/ajinkya4046#!/vizhome/TourdeFrance-Ajinkya/Dashboard1)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
