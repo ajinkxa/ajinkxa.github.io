@@ -35,13 +35,13 @@ Another technique than can be used to cope with the limitation of data availabil
 
 We also use transformations like contours and convex hulls and tested the neural networks on both set of images.
 
-<img src="T2.png?raw=true"/>
+<img src="images/T2.png?raw=true"/>
 
 ## Transfer Learning
 
 Transfer learning is a methodology where we use pretrained models (on a different data) and adapt them to our data. This saves the computational effort of building the models from the scratch. Transfer learning is the best way to combat limitations of small data.
 
-<img src="T3.png?raw=true"/>
+<img src="images/T3.png?raw=true"/>
 
 # Business Value of Labeling More Images
 
@@ -49,7 +49,7 @@ As we already discussed that we have limited number of images. The reason for th
 
 Here we can see that the accuracy of classification increases with increase in the number of images used for training. This shows that labeling more images indeed provides business value as it improves our research efforts significantly. The prediction accuracy increases from 70% with 100 images to 88% with 351 images.
 
-<img src="G1.png?raw=true"/>
+<img src="images/G1.png?raw=true"/>
 
 # Evaluation
 
