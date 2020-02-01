@@ -13,6 +13,8 @@ My eye always goes to the outcome. I specialize in understanding the business va
 
 [Soybean Root Image Classification - Project with Syngenta Corp, IA](/soybean.md)
 
+About 2000 plants worldwide are susceptible to infection by root-knot nematodes and they cause approximately 5% of global crop loss. Image processing and deep learning techniques can be used to diagnose these diseases quicker and with minimal human assistance. With significant amount of labeled images to train on, our models can classify soybean roots as resistant or susceptible with up-to 90% accuracy.
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
