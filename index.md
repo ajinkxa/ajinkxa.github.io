@@ -27,11 +27,12 @@ About 2000 plants worldwide are susceptible to infection by root-knot nematodes 
 
 ### Machine Learning Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Cancer Grade Prediction - Project with National Cancer Institute's SEER data](/SEER.md)
+
+
+After cancer is diagnosed, healthcare providers need to learn as much as they can about it. This helps them to plan the best treatment and look at overall outcomes and goals. For many types of cancer, part of this process includes figuring out the cancer grade and stage. Bsed on patient's medical history, our data-driven models can predict the cancer grades thus acting as a deicision suport tool for the healthcare providers.
+
+The project demonstrates the use of interesting pre-processing as well as feature engineering techniques to make the real-world data ready for analysis. With advanced tree-based ensemble models, we were able to achieve the AUC (area under curve) close to the state-of the-art AUC as per current research.
 
 ---
 
