@@ -29,6 +29,9 @@ About 2000 plants worldwide are susceptible to infection by root-knot nematodes 
 
 [Cancer Grade Prediction - Project with National Cancer Institute's SEER data](/SEER.md)
 
+<img src="images/images/Registries.jpeg?raw=true"/>
+
+
 
 After cancer is diagnosed, healthcare providers need to learn as much as they can about it. This helps them to plan the best treatment and look at overall outcomes and goals. For many types of cancer, part of this process includes figuring out the cancer grade and stage. Bsed on patient's medical history, our data-driven models can predict the cancer grades thus acting as a deicision suport tool for the healthcare providers.
 
