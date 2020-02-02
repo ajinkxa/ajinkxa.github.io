@@ -37,6 +37,9 @@ After cancer is diagnosed, healthcare providers need to learn as much as they ca
 
 The project demonstrates the use of interesting pre-processing as well as feature engineering techniques to make the real-world data ready for analysis. With advanced tree-based ensemble models, we were able to achieve the AUC (area under curve) close to the state-of the-art AUC as per current research.
 
+---
+
+
 [Predicting Time Until Next Earthquake by Analyzing Seismic Waves from Earth's Subsurface](/LANL.md)
 
 <img src="images/eda.png?raw=true"/>
@@ -45,7 +48,6 @@ The project demonstrates the use of interesting pre-processing as well as featur
 Earthquakes has devastating consequences in terms of living and financial cost. The GeoNet project locates 50 to 80 earthquakes each day and 20000 per year. Going back to the CEDIM repot, in 2011 earthquakes alone and their consequences, such as tsunamis, landslides, and ground settlements, caused a damage of $365 billion U.S. dollars. According to the CEDIM analysis, 20,500 people died, about a million people lost their homes. Hence, forecasting the size and the timing of earthquakes becomes a significant challenge. 
 
 Los Almos National Laboratory (LANL) tries to solve this challenge by make available the seismic data obtained from laboratory earthquakes for data scientists to work upon. The data is labeled with the time it took for the lab sample to undergo an earthquake. We use this data to train a predictive model, fine-tune it and test on unseen data. We tested several machine learning algorithms to reduce the Mean Absolute Error (MAE) between actual and predicted times until next earthquake.
-
 
 
 
