@@ -29,7 +29,7 @@ About 2000 plants worldwide are susceptible to infection by root-knot nematodes 
 
 [Cancer Grade Prediction - Project with National Cancer Institute's SEER data](/SEER.md)
 
-<img src="images/images/Registries.jpeg?raw=true"/>
+<img src="images/Registries.jpeg?raw=true"/>
 
 
 
