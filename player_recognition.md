@@ -181,7 +181,8 @@ data.show_batch(rows=3, figsize=(7,8))
 ```
 
 
-![png](output_24_0.png)
+<img src="images/pr1.png?raw=true"/>
+
 
 
 As you can see above, the dataset is uncurated with lot of noisy pictures. For example, the last picture is a sketch. There are several such images that are inaccurate/improper but we shall be using them to induce noise in our models.
@@ -622,7 +623,7 @@ learn.recorder.plot()
 ```
 
 
-![png](output_34_0.png)
+<img src="images/pr2.png?raw=true"/>
 
 
 
@@ -975,7 +976,9 @@ interp.plot_top_losses(9, figsize=(15,11))
 ```
 
 
-![png](output_41_0.png)
+<img src="images/pr3.png?raw=true"/>
+<img src="images/pr4.png?raw=true"/>
+
 
 
 
@@ -984,7 +987,7 @@ interp.plot_confusion_matrix()
 ```
 
 
-![png](output_42_0.png)
+<img src="images/pr5.png?raw=true"/>
 
 
 The confusion matrix thus shows that the model is quite adept at classifying the images. It currently shows an accuracy of 87%-89%. The accuracy can further be improved by 
