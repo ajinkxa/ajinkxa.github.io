@@ -181,7 +181,7 @@ data.show_batch(rows=3, figsize=(7,8))
 ```
 
 
-<img src="images/pr1.png?raw=true"/>
+<img src="images/pr1.PNG?raw=true"/>
 
 
 
@@ -623,7 +623,7 @@ learn.recorder.plot()
 ```
 
 
-<img src="images/pr2.png?raw=true"/>
+<img src="images/pr2.PNG?raw=true"/>
 
 
 
@@ -976,8 +976,8 @@ interp.plot_top_losses(9, figsize=(15,11))
 ```
 
 
-<img src="images/pr3.png?raw=true"/>
-<img src="images/pr4.png?raw=true"/>
+<img src="images/pr3.PNG?raw=true"/>
+<img src="images/pr4.PNG?raw=true"/>
 
 
 
@@ -987,7 +987,7 @@ interp.plot_confusion_matrix()
 ```
 
 
-<img src="images/pr5.png?raw=true"/>
+<img src="images/pr5.PNG?raw=true"/>
 
 
 The confusion matrix thus shows that the model is quite adept at classifying the images. It currently shows an accuracy of 87%-89%. The accuracy can further be improved by 
