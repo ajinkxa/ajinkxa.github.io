@@ -16,8 +16,10 @@ My eye always goes to the outcome. I specialize in understanding the business va
 About 2000 plants worldwide are susceptible to infection by root-knot nematodes and they cause approximately 5% of global crop loss. Image processing and deep learning techniques can be used to diagnose these diseases quicker and with minimal human assistance. With significant amount of labeled images to train on, our models can classify soybean roots as resistant or susceptible with up-to 90% accuracy.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Facial Recognition with AI](/player_recognition.ipynb)
+<img src="images/img.jpg?raw=true"/>
+
+Facial recognition to recognize players can be an useful application in sport analytics. A lot of in-game metrics like xG and xA scores, heatmaps depend on some kind of deep learning algorithms running in the backend. Leading to that, this is a fun project that I did to implement pretrained models on data stream created from google images. First 200 google images of 3 famous footballers were fed to this model to see how well the model is able to train on an uncurated noisy data. It was a practice in building data pipelines, creating image transforms, importing pretrained models and optimizing the learning rate.
 
 ---
 [Project 3 Title](http://example.com/)
