@@ -12,7 +12,7 @@ generate weights for factor portfolios.
 Asset allocation is the strategy of dividing an investment portfolio across various asset
 classes like stocks and bonds. Essentially, asset allocation is an organized and effective method
 of diversification, which can help investors minimize risk while meeting an expected level of
-return. In this project, we are focused only on the stock market.
+return. In this project, we are focused only on the stock market.\
 Recently, researchers have been developing different methods for asset allocation. The
 Markowitz Mean Variance model is the most popular and widely-used one among them. It
 uses the statistical measure of expected return and variance to quantify the returns and the risk,
@@ -86,14 +86,14 @@ baseline model. The standard deviation in annualized returns for MMV and PCA can
 significantly higher than the baseline standard deviation under a 6-month window. But the
 standard deviation for both models decreases as we shift to a 1-year window. Both models favor
 the shorter 4-week return horizon and rebalancing periods. Both models favor the use of excess
-return inputs over absolute return inputs.
+return inputs over absolute return inputs.\
 But there are two important differences between the MMV and PCA models. First, we
 can find a specific value for the MMV risk-aversion parameter 𝜆 which will generate the same
 standard deviation in annualized returns as PCA but will generate high mean returns. We can
 find a MMV model to generate higher returns for the same risk. Second the MMV model provides
 a continuous range of possible 𝜆 risk aversion parameters which allow the investor to select from
 a combination of return and volatility combinations. For these reasons we recommend using the
-MMV model given perfect future information.
+MMV model given perfect future information.\
  While our analysis under perfect future information is an unrealistic scenario, we think this
 provides useful insight into how these models fundamentally work. Our analysis also provides a
 valuable benchmark against which Principal can compare results generated using estimated future
@@ -103,12 +103,12 @@ exhibits different behaviors. Improvements to the models could include the addit
 investing constraints such as transaction costs or the requirement for a minimum level of
 diversification. The MMV model we analyzed assumed an investor’s risk-aversion parameter
 remained constant. The MMV model could be improved by making this parameter dynamic,
-reflecting true changes in risk tolerance that happen in different economic periods.
+reflecting true changes in risk tolerance that happen in different economic periods.\
 We find that PCA is an interesting technique to study the market. We can use different
-approaches for PCA to study the variation in data and design our allocation strategy based on it. 
-30
+approaches for PCA to study the variation in data and design our allocation strategy based on it.
+
 The final recommendation of parameters for PCA model would be using 4 week return horizon,
-4 week rebalancing period, and excess returns.
+4 week rebalancing period, and excess returns.\
  Using non-negative weights does give us higher results than the baseline, but it still
 cannot be said as the best model. Since, we don’t intend to short the stocks, the model currently
 has no strategy to deal with negative weights, other than eliminating it. We can research further
