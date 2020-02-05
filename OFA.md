@@ -87,6 +87,7 @@ significantly higher than the baseline standard deviation under a 6-month window
 standard deviation for both models decreases as we shift to a 1-year window. Both models favor
 the shorter 4-week return horizon and rebalancing periods. Both models favor the use of excess
 return inputs over absolute return inputs.\
+
 But there are two important differences between the MMV and PCA models. First, we
 can find a specific value for the MMV risk-aversion parameter 𝜆 which will generate the same
 standard deviation in annualized returns as PCA but will generate high mean returns. We can
@@ -94,7 +95,8 @@ find a MMV model to generate higher returns for the same risk. Second the MMV mo
 a continuous range of possible 𝜆 risk aversion parameters which allow the investor to select from
 a combination of return and volatility combinations. For these reasons we recommend using the
 MMV model given perfect future information.\
- While our analysis under perfect future information is an unrealistic scenario, we think this
+
+While our analysis under perfect future information is an unrealistic scenario, we think this
 provides useful insight into how these models fundamentally work. Our analysis also provides a
 valuable benchmark against which Principal can compare results generated using estimated future
 returns. In addition to analyzing these models with imperfect information, we recommend that
@@ -104,12 +106,12 @@ investing constraints such as transaction costs or the requirement for a minimum
 diversification. The MMV model we analyzed assumed an investor’s risk-aversion parameter
 remained constant. The MMV model could be improved by making this parameter dynamic,
 reflecting true changes in risk tolerance that happen in different economic periods.\
-We find that PCA is an interesting technique to study the market. We can use different
-approaches for PCA to study the variation in data and design our allocation strategy based on it.
 
-The final recommendation of parameters for PCA model would be using 4 week return horizon,
+We find that PCA is an interesting technique to study the market. We can use different
+approaches for PCA to study the variation in data and design our allocation strategy based on it. The final recommendation of parameters for PCA model would be using 4 week return horizon,
 4 week rebalancing period, and excess returns.\
- Using non-negative weights does give us higher results than the baseline, but it still
+
+Using non-negative weights does give us higher results than the baseline, but it still
 cannot be said as the best model. Since, we don’t intend to short the stocks, the model currently
 has no strategy to deal with negative weights, other than eliminating it. We can research further
 to find a better strategy to deal with negative weights. 
