@@ -46,7 +46,18 @@ Earthquakes has devastating consequences in terms of living and financial cost. 
 
 Los Almos National Laboratory (LANL) tries to solve this challenge by make available the seismic data obtained from laboratory earthquakes for data scientists to work upon. The data is labeled with the time it took for the lab sample to undergo an earthquake. We use this data to train a predictive model, fine-tune it and test on unseen data. We tested several machine learning algorithms to reduce the Mean Absolute Error (MAE) between actual and predicted times until next earthquake.
 
+---
+[Optimal Factor Portfolio Allocation](/Optimal Factor Portfolio Allocation.md)
 
+<img src="images/Picture16.png?raw=true"/>
+
+Factor portfolio is a portfolio of stocks where inclusion is defined by a single factor, such
+as book to price, 12-month return, and 12-month volatility. In this project, our objective was to
+develop a system that consumes stock-level signal data and recommends a factor policy (i.e. an
+allocation to each factor portfolio) which maximizes reward while controlling risk. We developed
+a pipeline system to combine inputs with models to generate weights and resulting performance
+metrics. We used Markowitz Mean-Variance and Principal Component Analysis (PCA) model to
+generate weights for factor portfolios. These models under all market conditions, are designed to give higher returns than the baseline.
 
 ---
 
