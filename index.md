@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! I am a data scientist located in Ames, IA. I hold expertise in building state-of-the-art machine learning models & executing scalable cloud solutions. During my past stints as a data scientist, I helped a healthcare company achieve $9.2 million in increased investment returns, an agricultural company save 5% of global crop loss and contributed to open source projects helping physicians in diagnosing aggressiveness of cancer.
+Hi! I am a data scientist located in Ames, IA. I hold expertise in building state-of-the-art machine learning models & executing scalable cloud solutions. During my past stints as a data scientist, I helped a healthcare company achieve $9.2 million in increased investment returns, an agricultural company save 5% of global crop loss and contributed to open source projects helping physicians diagnose the aggressiveness of cancer.
 
 My eye always goes to the outcome. I specialize in understanding the business value of data and leveraging it to open up avenues. Take a look at all my latest work to understand in more detail about what I do.
 
@@ -19,10 +19,6 @@ About 2000 plants worldwide are susceptible to infection by root-knot nematodes 
 [Facial Recognition with AI](/player_recognition.md)
 
 Facial recognition to recognize players can be an useful application in sport analytics. A lot of in-game metrics like xG and xA scores, heatmaps depend on some kind of deep learning algorithms running in the backend. Leading to that, this is a fun project that I did to implement pretrained models on data stream created from google images. First 200 google images of 3 famous footballers were fed to this model to see how well the model is able to train on an uncurated noisy data. It was a practice in building data pipelines, creating image transforms, importing pretrained models and optimizing the learning rate.
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
