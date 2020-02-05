@@ -2,7 +2,7 @@
 
 Hi! I am a data scientist located in Ames, IA. I hold expertise in building state-of-the-art machine learning models & executing scalable cloud solutions. During my past stints as a data scientist, I helped a healthcare company achieve $9.2 million in increased investment returns, an agricultural company save 5% of global crop loss and contributed to open source projects helping physicians diagnose the aggressiveness of cancer.
 
-My eye always goes to the outcome. I specialize in understanding the business value of data and leveraging it to open up avenues. Take a look at all my latest work to understand in more detail about what I do.
+My eye always goes to the outcome. Take a look at all my latest work to understand in more detail about what I do.
 
 
 ## Projects
