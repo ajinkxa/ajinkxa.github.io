@@ -47,7 +47,7 @@ Earthquakes has devastating consequences in terms of living and financial cost. 
 Los Almos National Laboratory (LANL) tries to solve this challenge by make available the seismic data obtained from laboratory earthquakes for data scientists to work upon. The data is labeled with the time it took for the lab sample to undergo an earthquake. We use this data to train a predictive model, fine-tune it and test on unseen data. We tested several machine learning algorithms to reduce the Mean Absolute Error (MAE) between actual and predicted times until next earthquake.
 
 ---
-[Optimal Factor Portfolio Allocation](/Optimal Factor Portfolio Allocation.md)
+[Optimal Factor Portfolio Allocation](/OFA.md)
 
 <img src="images/Picture16.png?raw=true"/>
 
